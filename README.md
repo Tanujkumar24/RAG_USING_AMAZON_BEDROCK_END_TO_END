@@ -1,5 +1,9 @@
 # RAG_USING_AMAZON_BEDROCK_END_TO_END
-
+# Screenshots
+![aws-bedrock](https://raw.githubusercontent.com/Tanujkumar24/RAG_USING_AMAZON_BEDROCK_END_TO_END/refs/heads/main/aws-deployement.png)
+![aws-results](https://raw.githubusercontent.com/Tanujkumar24/RAG_USING_AMAZON_BEDROCK_END_TO_END/refs/heads/main/aws-result.png)
+![aws-models](https://raw.githubusercontent.com/Tanujkumar24/RAG_USING_AMAZON_BEDROCK_END_TO_END/refs/heads/main/aws-ec2.png)
+![aws-models](https://github.com/Tanujkumar24/RAG_USING_AMAZON_BEDROCK_END_TO_END/blob/main/Screenshot%20(101).png)
 
 
 ## How to run?
